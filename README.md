@@ -4,6 +4,8 @@ This is an exploration of how short term rentals impact the SF housing market wi
 
 (C) Data Driven Empathy LLC by Sam Pottinger. Released under the MIT license (see LICENSE.md).
 
+This project has no affiliation with Airbnb or the San Francisco Government.
+
 <br>
 
 ## Article Notes
