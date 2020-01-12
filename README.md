@@ -62,3 +62,4 @@ This project leverages a number of open source libraries:
  - [Numpy](https://numpy.org/) under the [BSD License](https://numpy.org/license.html).
  - [Shapely](https://shapely.readthedocs.io/en/stable/manual.html) under the [BSD License]https://github.com/Toblerity/Shapely/blob/master/LICENSE.txt).
  - [GEOS](https://trac.osgeo.org/geos/) under the [LGPL License](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+ - [SQLite](https://www.sqlite.org/index.html) in the [public domain](https://www.sqlite.org/copyright.html).
