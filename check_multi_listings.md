@@ -1,7 +1,7 @@
 Check Multi-Listings Calculation
 =================================
 
-t's not entirely clear why this analysis' results do not agree with [Inside Airbnb's SF page](http://insideairbnb.com/san-francisco/) on percent of hosts with more than one listing. This can be easily reproduced with the source below.
+t's not entirely clear why this analysis' results do not agree with [Inside Airbnb's SF page](http://insideairbnb.com/san-francisco/) on percent of hosts with more than one listing. This can be easily reproduced with the source below. It may be the filters applied are different, this analysis only considers listings within SF, or there may be some calculation across scrapes that this analysis does not replicate.
 
 <br>
 

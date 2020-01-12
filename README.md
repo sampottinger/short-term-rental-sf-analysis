@@ -9,7 +9,7 @@ This project has no affiliation with Airbnb or the San Francisco Government.
 <br>
 
 ## Article Notes
-\* It's not entirely clear why this analysis' results do not agree with [Inside Airbnb's SF page](http://insideairbnb.com/san-francisco/) on percent of hosts with more than one listing. This can be easily reproduced with the source in `check_multi_listings.md` in this repo.
+\* It's not entirely clear why this analysis' results are quite different than [Inside Airbnb's SF page](http://insideairbnb.com/san-francisco/) on percent of hosts with more than one listing. This can be easily reproduced with the source in `check_multi_listings.md` in this repo. It may be the filters applied are different, this analysis only considers listings within SF, or there may be some calculation across scrapes that this analysis does not replicate.
 
 \** 10% of likely "local" hosts have ≥ 3 listings whereas 15% of potential "remote" hosts have ≥ 3 listings.
 
